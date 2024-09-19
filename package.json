@@ -1,0 +1,19 @@
+{
+  "name": "backend-develpoment",
+  "version": "1.0.0",
+  "description": "a practise app for backend ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Lokesh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
